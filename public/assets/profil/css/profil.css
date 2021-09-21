@@ -1,0 +1,10 @@
+#profil-wrapper {
+    min-height: 450px;
+}
+#izmeni-button{
+    color: #fff;
+}
+input.form-control-plaintext{
+    background-color: rgb(252, 244, 238);
+    padding: 4px 5px;
+}

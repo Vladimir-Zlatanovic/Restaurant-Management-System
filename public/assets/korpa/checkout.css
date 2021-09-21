@@ -1,0 +1,22 @@
+
+.korpa-wrapper img {
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+}
+.table td {
+    vertical-align: middle;
+}
+.table th {
+    vertical-align: bottom;
+}
+.btn {
+    background-color: #fb5849;
+    color: #fff;
+    font-size: 1.2rem;
+ }
+ #checkout {
+     
+     min-height: fit-content;
+     margin-top: auto;
+ }
